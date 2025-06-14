@@ -9,6 +9,13 @@
 
 This document defines the foundational architecture of the iStudioGamer platform — a YouTube gaming infrastructure engineered as a product. Built for reproducibility, automation, and performance, it treats videos as immutable assets and infrastructure as versioned code.
 
+
+---
+## 🖼️ Architecture Diagram
+
+![iStudioGamer Architecture v1.0](./images/iStudioGamer_Architecture_v1.0.png)
+
+> This diagram visualizes the evolution from traditional upload workflows to the pipeline-driven, AI-native architecture behind iStudioGamer.
 ---
 
 ## 🧱 Layered Architecture
