@@ -104,12 +104,11 @@ This architecture was built to solve recurring problems in high-quality gaming c
 /
 ├── README.md
 ├── architecture_v1.0.md
+├── images/
+│   └── iStudioGamer_Architecture_v1.0.png
 ├── docs/
 │   └── architecture/
 │       └── CHANGELOG.md
-├── assets/
-│   └── diagrams/
-│       └── iStudioGamer_Architecture_v1.0.png
 
 ```
 
